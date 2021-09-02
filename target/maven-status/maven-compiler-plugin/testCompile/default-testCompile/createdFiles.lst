@@ -1,0 +1,7 @@
+com\tutorialsninja\automation\runner\RegisterRunner.class
+com\tutorialsninja\automation\stepdef\Search.class
+com\tutorialsninja\automation\runner\LoginRunner.class
+com\tutorialsninja\automation\stepdef\Hooks.class
+com\tutorialsninja\automation\runner\SearchRunner.class
+com\tutorialsninja\automation\stepdef\Register.class
+com\tutorialsninja\automation\stepdef\Login.class

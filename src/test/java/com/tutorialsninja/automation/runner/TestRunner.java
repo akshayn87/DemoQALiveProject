@@ -11,6 +11,6 @@ import cucumber.api.junit.Cucumber;
 		"classpath:FeatureFiles/Search.feature" },
 glue=("classpath:com.tutorialsninja.automation.stepdef"),
 		plugin = { "html:target/cucumber_html_report" })
-public class Runner {
+public class TestRunner {
 
 }

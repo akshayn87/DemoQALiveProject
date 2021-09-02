@@ -1,5 +1,15 @@
-C:\Users\dmothe\workspace\TutorialsNinja\src\main\java\com\tutorialsninja\automation\config\ConfigurationReader.java
-C:\Users\dmothe\workspace\TutorialsNinja\src\main\java\com\tutorialsninja\automation\framework\Browser.java
-C:\Users\dmothe\workspace\TutorialsNinja\src\main\java\com\tutorialsninja\automation\base\Base.java
-C:\Users\dmothe\workspace\TutorialsNinja\src\main\java\com\tutorialsninja\automation\config\PropertyFileReader.java
-C:\Users\dmothe\workspace\TutorialsNinja\src\main\java\com\tutorialsninja\automation\util\PathHelper.java
+C:\eclipse -workspace\DemoQALiveProject\src\main\java\com\tutorialsninja\automation\framework\Test.java
+C:\eclipse -workspace\DemoQALiveProject\src\main\java\com\tutorialsninja\automation\framework\Elements.java
+C:\eclipse -workspace\DemoQALiveProject\src\main\java\com\tutorialsninja\automation\pages\HeadersSection.java
+C:\eclipse -workspace\DemoQALiveProject\src\main\java\com\tutorialsninja\automation\config\PropertyFileReader.java
+C:\eclipse -workspace\DemoQALiveProject\src\main\java\com\tutorialsninja\automation\util\PathHelper.java
+C:\eclipse -workspace\DemoQALiveProject\src\main\java\com\tutorialsninja\automation\pages\MyAccountPage.java
+C:\eclipse -workspace\DemoQALiveProject\src\main\java\com\tutorialsninja\automation\framework\Browser.java
+C:\eclipse -workspace\DemoQALiveProject\src\main\java\com\tutorialsninja\automation\pages\LoginPage.java
+C:\eclipse -workspace\DemoQALiveProject\src\main\java\com\tutorialsninja\automation\pages\AccountSuccsesPage.java
+C:\eclipse -workspace\DemoQALiveProject\src\main\java\com\tutorialsninja\automation\config\ConfigurationReader.java
+C:\eclipse -workspace\DemoQALiveProject\src\main\java\com\tutorialsninja\automation\pages\RegisterPage.java
+C:\eclipse -workspace\DemoQALiveProject\src\main\java\com\tutorialsninja\automation\base\Base.java
+C:\eclipse -workspace\DemoQALiveProject\src\main\java\com\tutorialsninja\automation\framework\Waits.java
+C:\eclipse -workspace\DemoQALiveProject\src\main\java\com\tutorialsninja\automation\pages\SearchResultsPage.java
+C:\eclipse -workspace\DemoQALiveProject\src\main\java\com\tutorialsninja\automation\pages\ForgotPasswordPage.java
